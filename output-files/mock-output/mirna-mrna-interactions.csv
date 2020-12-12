@@ -1,0 +1,11 @@
+miRNA,mRNA,mirDIP_score,pearson_coeff
+hsa-mir-146a,ERK,0.9,-0.34
+hsa-mir-204,MAPK,0.8,-0.53
+hsa-mir-138-1,TP53,0.64,-0.23
+hsa-mir-199b,EGFR,0.78,-0.36
+hsa-mir-199b,BRAF,0.76,-0.41
+hsa-mir-203b,APOBEC1,0.68,-0.25
+hsa-mir-369,ADAR,0.87,-0.43
+hsa-let-7a-1,KRAS,0.78,-0.32
+hsa-let-7a-1,HMGA2,0.67,-0.55
+
