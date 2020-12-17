@@ -3,5 +3,6 @@
 ## Abstract
 
 ## Authors
+Arell Bryski
 David Cohn
 Brian Low
