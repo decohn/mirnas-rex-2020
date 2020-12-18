@@ -5,4 +5,5 @@
 ## Authors
 Arell Bryski
 David Cohn
+Francesca Ferraresso
 Brian Low
