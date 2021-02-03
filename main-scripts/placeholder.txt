@@ -1,1 +1,0 @@
-This file only exists so that the 'main-scripts' folder can be created.
