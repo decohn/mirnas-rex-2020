@@ -1,0 +1,519 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2576
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Pathway enrichment analysis results ('q-value (FDR: BH-method) less than 0.05' = 509)\
+\
+Pathway Source	Pathway Name	p-value	q-value (FDR: BH-method)	q-value (Bonferroni)	External Source ID\
+REACTOME	Signaling by Receptor Tyrosine Kinases	2.70837e-26	5.77154e-23	5.77154e-23	n/a\
+KEGG	Pathways in cancer	1.83861e-23	1.95904e-20	3.91808e-20	n/a\
+REACTOME	Membrane Trafficking	4.45580e-21	3.16510e-18	9.49531e-18	n/a\
+KEGG	MicroRNAs in cancer	1.10708e-19	5.89797e-17	2.35919e-16	n/a\
+REACTOME	Diseases of signal transduction	1.01531e-18	4.32725e-16	2.16363e-15	n/a\
+REACTOME	Post-translational protein modification	1.37212e-18	4.87331e-16	2.92399e-15	n/a\
+KEGG	Axon guidance	2.09762e-18	6.38575e-16	4.47003e-15	n/a\
+KEGG	MAPK signaling	8.73628e-17	2.32713e-14	1.86170e-13	n/a\
+KEGG	Endocytosis	2.28823e-16	5.41802e-14	4.87622e-13	n/a\
+REACTOME	RNA Polymerase II Transcription	2.56858e-16	5.47364e-14	5.47364e-13	n/a\
+REACTOME	Gene expression (Transcription)	4.74751e-16	9.19722e-14	1.01169e-12	n/a\
+REACTOME	Axon guidance	1.19827e-15	2.12793e-13	2.55351e-12	n/a\
+REACTOME	Generic Transcription Pathway	2.88805e-15	4.73418e-13	6.15443e-12	n/a\
+REACTOME	Vesicle-mediated transport	8.57230e-15	1.30483e-12	1.82676e-11	n/a\
+KEGG	Rap1 signaling	1.28799e-14	1.82980e-12	2.74471e-11	n/a\
+KEGG	FoxO signaling	2.06431e-14	2.74940e-12	4.39904e-11	n/a\
+KEGG	Proteoglycans in cancer	4.40086e-14	5.51661e-12	9.37823e-11	n/a\
+KEGG	Neurotrophin signaling	5.03000e-14	5.95496e-12	1.07189e-10	n/a\
+KEGG	Hippo signaling	6.59120e-14	7.39255e-12	1.40458e-10	n/a\
+KEGG	Adherens junction	7.80019e-14	8.31110e-12	1.66222e-10	n/a\
+KEGG	Ras signaling	1.95857e-13	1.98748e-11	4.17371e-10	n/a\
+KEGG	Regulation of actin cytoskeleton	3.86655e-13	3.74528e-11	8.23962e-10	n/a\
+REACTOME	Signal Transduction	5.22484e-13	4.84093e-11	1.11341e-09	n/a\
+REACTOME	Intracellular signaling by second messengers	5.69890e-13	5.06015e-11	1.21444e-09	n/a\
+REACTOME	Disease	9.29496e-13	7.92302e-11	1.98076e-09	n/a\
+KEGG	AMPK signaling	1.35339e-12	1.06818e-10	2.88407e-09	n/a\
+KEGG	PI3K-Akt signaling	1.32683e-12	1.08749e-10	2.82747e-09	n/a\
+REACTOME	Signaling by TGF-beta family members	3.53490e-12	2.69031e-10	7.53287e-09	n/a\
+KEGG	Human papillomavirus infection	5.50053e-12	4.04194e-10	1.17216e-08	n/a\
+REACTOME	MAPK family signaling cascades	8.92291e-12	6.33824e-10	1.90147e-08	n/a\
+KEGG	TGF-beta signaling	1.39493e-11	9.58902e-10	2.97260e-08	n/a\
+KEGG	Autophagy - animal	1.88228e-11	1.25348e-09	4.01114e-08	n/a\
+REACTOME	PIP3 activates AKT signaling	3.58227e-11	2.31328e-09	7.63382e-08	n/a\
+KEGG	Chronic myeloid leukemia	4.06163e-11	2.54569e-09	8.65533e-08	n/a\
+KEGG	Focal adhesion	6.65535e-11	4.05216e-09	1.41826e-07	n/a\
+KEGG	Prostate cancer	7.90129e-11	4.67712e-09	1.68376e-07	n/a\
+KEGG	Tight junction	8.14923e-11	4.69352e-09	1.73660e-07	n/a\
+REACTOME	Metabolism of proteins	1.04752e-10	5.87438e-09	2.23227e-07	n/a\
+REACTOME	Transcriptional Regulation by TP53	2.04993e-10	1.12010e-08	4.36840e-07	n/a\
+KEGG	Insulin resistance	2.43682e-10	1.29822e-08	5.19286e-07	n/a\
+KEGG	ErbB signaling	2.61183e-10	1.35751e-08	5.56581e-07	n/a\
+REACTOME	Signaling by NTRKs	2.87342e-10	1.45792e-08	6.12326e-07	n/a\
+REACTOME	Signaling by NOTCH	3.22072e-10	1.59613e-08	6.86335e-07	n/a\
+REACTOME	Signaling by VEGF	3.69133e-10	1.78778e-08	7.86622e-07	n/a\
+KEGG	Thyroid hormone signaling	3.94271e-10	1.86709e-08	8.40192e-07	n/a\
+KEGG	Apelin signaling	5.85504e-10	2.71241e-08	1.24771e-06	n/a\
+REACTOME	VEGFA-VEGFR2 Pathway	7.35136e-10	3.33314e-08	1.56657e-06	n/a\
+REACTOME	Rho GTPase cycle	9.46570e-10	4.20238e-08	2.01714e-06	n/a\
+KEGG	Signaling pathways regulating pluripotency of stem cells	1.28447e-09	5.58613e-08	2.73721e-06	n/a\
+REACTOME	Signaling by Rho GTPases	1.39692e-09	5.95367e-08	2.97684e-06	n/a\
+KEGG	Renal cell carcinoma	2.50203e-09	1.04546e-07	5.33183e-06	n/a\
+KEGG	Cellular senescence	2.81190e-09	1.15234e-07	5.99216e-06	n/a\
+KEGG	Sphingolipid signaling	3.00368e-09	1.18534e-07	6.40084e-06	n/a\
+REACTOME	RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known	2.96690e-09	1.19292e-07	6.32246e-06	n/a\
+REACTOME	Oncogenic MAPK signaling	3.23016e-09	1.25154e-07	6.88347e-06	n/a\
+KEGG	cAMP signaling	3.77187e-09	1.43533e-07	8.03785e-06	n/a\
+REACTOME	Class I MHC mediated antigen processing & presentation	4.17580e-09	1.56116e-07	8.89863e-06	n/a\
+REACTOME	Signaling by NTRK1 (TRKA)	6.56742e-09	2.41296e-07	1.39952e-05	n/a\
+REACTOME	MyD88 cascade initiated on plasma membrane	7.33087e-09	2.60368e-07	1.56221e-05	n/a\
+REACTOME	Toll Like Receptor 10 (TLR10) Cascade	7.33087e-09	2.60368e-07	1.56221e-05	n/a\
+REACTOME	Toll Like Receptor 5 (TLR5) Cascade	7.33087e-09	2.60368e-07	1.56221e-05	n/a\
+KEGG	Insulin signaling	7.28429e-09	2.63099e-07	1.55228e-05	n/a\
+REACTOME	Pre-NOTCH Expression and Processing	9.74494e-09	3.29626e-07	2.07665e-05	n/a\
+REACTOME	Rab regulation of trafficking	1.00306e-08	3.33988e-07	2.13752e-05	n/a\
+REACTOME	Pre-NOTCH Transcription and Translation	1.06045e-08	3.47664e-07	2.25982e-05	n/a\
+KEGG	Longevity regulating	1.30459e-08	4.21224e-07	2.78008e-05	n/a\
+REACTOME	Transport of small molecules	1.76069e-08	5.60005e-07	3.75203e-05	n/a\
+KEGG	Pancreatic cancer	2.99767e-08	9.39417e-07	6.38803e-05	n/a\
+KEGG	Circadian rhythm	3.19724e-08	9.87437e-07	6.81332e-05	n/a\
+REACTOME	Toll Like Receptor 9 (TLR9) Cascade	3.26606e-08	9.94282e-07	6.95997e-05	n/a\
+REACTOME	Signaling by TGF-beta Receptor Complex	3.35449e-08	1.00682e-06	7.14842e-05	n/a\
+REACTOME	MAPK1/MAPK3 signaling	3.83053e-08	1.11820e-06	8.16286e-05	n/a\
+REACTOME	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	3.82102e-08	1.13092e-06	8.14259e-05	n/a\
+REACTOME	Antigen processing: Ubiquitination & Proteasome degradation	4.35968e-08	1.25547e-06	9.29048e-05	n/a\
+KEGG	HIF-1 signaling	4.73315e-08	1.34485e-06	1.00863e-04	n/a\
+REACTOME	RAF/MAP kinase cascade	5.15890e-08	1.44653e-06	1.09936e-04	n/a\
+REACTOME	MyD88 dependent cascade initiated on endosome	6.02104e-08	1.66634e-06	1.28308e-04	n/a\
+REACTOME	Toll Like Receptor 7/8 (TLR7/8) Cascade	6.02104e-08	1.66634e-06	1.28308e-04	n/a\
+REACTOME	MyD88:MAL(TIRAP) cascade initiated on plasma membrane	6.89953e-08	1.86113e-06	1.47029e-04	n/a\
+REACTOME	Toll Like Receptor TLR6:TLR2 Cascade	6.89953e-08	1.86113e-06	1.47029e-04	n/a\
+REACTOME	Asparagine N-linked glycosylation	7.89944e-08	2.07824e-06	1.68337e-04	n/a\
+KEGG	Breast cancer	8.25521e-08	2.14535e-06	1.75919e-04	n/a\
+KEGG	cGMP-PKG signaling	8.89944e-08	2.25770e-06	1.89647e-04	n/a\
+REACTOME	Regulation of TP53 Activity	8.81532e-08	2.26331e-06	1.87854e-04	n/a\
+KEGG	AGE-RAGE signaling pathway in diabetic complications	9.68502e-08	2.42809e-06	2.06388e-04	n/a\
+REACTOME	Downstream signal transduction	1.04723e-07	2.59494e-06	2.23165e-04	n/a\
+REACTOME	Intra-Golgi and retrograde Golgi-to-ER traffic	1.10557e-07	2.70801e-06	2.35597e-04	n/a\
+REACTOME	Signaling by BRAF and RAF fusions	1.33124e-07	3.22372e-06	2.83687e-04	n/a\
+REACTOME	Signaling by PDGF	1.40712e-07	3.36918e-06	2.99857e-04	n/a\
+KEGG	Hepatitis B	2.03943e-07	4.82892e-06	4.34603e-04	n/a\
+REACTOME	Immune System	2.10911e-07	4.93903e-06	4.49451e-04	n/a\
+KEGG	Fc gamma R-mediated phagocytosis	2.19537e-07	5.08515e-06	4.67833e-04	n/a\
+REACTOME	Cellular responses to external stimuli	2.24108e-07	5.13521e-06	4.77574e-04	n/a\
+REACTOME	Toll Like Receptor 2 (TLR2) Cascade	2.43109e-07	5.51133e-06	5.18065e-04	n/a\
+REACTOME	Toll Like Receptor TLR1:TLR2 Cascade	2.43109e-07	5.51133e-06	5.18065e-04	n/a\
+REACTOME	Negative regulation of the PI3K/AKT network	2.66585e-07	5.91763e-06	5.68093e-04	n/a\
+REACTOME	Signaling by BMP	2.80607e-07	6.16468e-06	5.97974e-04	n/a\
+REACTOME	MAP kinase activation	3.23926e-07	7.04374e-06	6.90286e-04	n/a\
+REACTOME	Death Receptor Signalling	3.54471e-07	7.63008e-06	7.55378e-04	n/a\
+KEGG	Colorectal cancer	4.05884e-07	8.64939e-06	8.64939e-04	n/a\
+REACTOME	RAB GEFs exchange GTP for GDP on RABs	4.49284e-07	9.47945e-06	9.57424e-04	n/a\
+REACTOME	MyD88-independent TLR4 cascade	4.92265e-07	1.02845e-05	1.04902e-03	n/a\
+REACTOME	TRIF(TICAM1)-mediated TLR4 signaling	4.92265e-07	1.02845e-05	1.04902e-03	n/a\
+KEGG	mTOR signaling	5.06807e-07	1.03847e-05	1.08001e-03	n/a\
+REACTOME	Non-genomic estrogen signaling	5.13345e-07	1.04185e-05	1.09394e-03	n/a\
+KEGG	Epithelial cell signaling in Helicobacter pylori infection	5.94854e-07	1.19588e-05	1.26763e-03	n/a\
+KEGG	Gastric cancer	6.76324e-07	1.34696e-05	1.44125e-03	n/a\
+KEGG	Glioma	6.97491e-07	1.37625e-05	1.48635e-03	n/a\
+KEGG	Human immunodeficiency virus 1 infection	7.84155e-07	1.53306e-05	1.67103e-03	n/a\
+KEGG	Platelet activation	8.24023e-07	1.59636e-05	1.75599e-03	n/a\
+REACTOME	Toll Like Receptor 4 (TLR4) Cascade	8.24023e-07	1.59636e-05	1.75599e-03	n/a\
+REACTOME	Toll Like Receptor 3 (TLR3) Cascade	9.09375e-07	1.73025e-05	1.93788e-03	n/a\
+KEGG	mRNA surveillance	9.85966e-07	1.85937e-05	2.10109e-03	n/a\
+REACTOME	EPH-Ephrin signaling	1.02141e-06	1.90932e-05	2.17662e-03	n/a\
+KEGG	Melanoma	1.09322e-06	2.02578e-05	2.32965e-03	n/a\
+REACTOME	Signaling by Hippo	1.11924e-06	2.05612e-05	2.38510e-03	n/a\
+KEGG	Protein processing in endoplasmic reticulum	1.13282e-06	2.06328e-05	2.41404e-03	n/a\
+KEGG	Phospholipase D signaling	1.20277e-06	2.15387e-05	2.56310e-03	n/a\
+REACTOME	Clathrin-mediated endocytosis	1.20277e-06	2.15387e-05	2.56310e-03	n/a\
+KEGG	Fluid shear stress and atherosclerosis	1.19975e-06	2.16667e-05	2.55667e-03	n/a\
+KEGG	Transcriptional misregulation in cancer	1.29353e-06	2.27811e-05	2.75651e-03	n/a\
+KEGG	Human cytomegalovirus infection	1.34104e-06	2.34242e-05	2.85776e-03	n/a\
+KEGG	Choline metabolism in cancer	1.62092e-06	2.80828e-05	3.45418e-03	n/a\
+KEGG	Mitophagy - animal	1.75080e-06	3.00883e-05	3.73095e-03	n/a\
+REACTOME	Deactivation of the beta-catenin transactivating complex	1.83428e-06	3.12708e-05	3.90885e-03	n/a\
+REACTOME	Apoptosis	1.90744e-06	3.22600e-05	4.06475e-03	n/a\
+KEGG	Hippo signaling pathway - multiple species	1.94411e-06	3.26212e-05	4.14290e-03	n/a\
+REACTOME	RHO GTPases Activate WASPs and WAVEs	2.11200e-06	3.48889e-05	4.50067e-03	n/a\
+KEGG	Kaposi sarcoma-associated herpesvirus infection	2.10376e-06	3.50243e-05	4.48311e-03	n/a\
+KEGG	Phosphatidylinositol signaling system	2.30450e-06	3.77761e-05	4.91089e-03	n/a\
+KEGG	Acute myeloid leukemia	2.75345e-06	4.47909e-05	5.86760e-03	n/a\
+KEGG	Adrenergic signaling in cardiomyocytes	2.80258e-06	4.52447e-05	5.97230e-03	n/a\
+REACTOME	Signaling by MET	2.84548e-06	4.55919e-05	6.06372e-03	n/a\
+REACTOME	Metabolism of lipids	2.99045e-06	4.75571e-05	6.37265e-03	n/a\
+REACTOME	SUMOylation of transcription cofactors	3.17597e-06	5.01333e-05	6.76799e-03	n/a\
+REACTOME	Regulation of RUNX1 Expression and Activity	3.45832e-06	5.41888e-05	7.36968e-03	n/a\
+REACTOME	Transport to the Golgi and subsequent modification	3.48435e-06	5.41982e-05	7.42515e-03	n/a\
+REACTOME	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	3.82346e-06	5.90420e-05	8.14779e-03	n/a\
+KEGG	Hepatocellular carcinoma	4.14828e-06	6.31427e-05	8.83998e-03	n/a\
+REACTOME	Synthesis of PIPs at the plasma membrane	4.13288e-06	6.33609e-05	8.80717e-03	n/a\
+REACTOME	PI Metabolism	4.22832e-06	6.39046e-05	9.01055e-03	n/a\
+KEGG	Long-term potentiation	4.26324e-06	6.39786e-05	9.08496e-03	n/a\
+REACTOME	Interleukin-17 signaling	4.26324e-06	6.39786e-05	9.08496e-03	n/a\
+REACTOME	Signaling by ERBB2	4.41491e-06	6.53345e-05	9.40817e-03	n/a\
+REACTOME	Ion channel transport	4.69612e-06	6.85441e-05	1.00074e-02	n/a\
+REACTOME	Adaptive Immune System	4.69552e-06	6.90080e-05	1.00062e-02	n/a\
+REACTOME	Regulation of lipid metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)	4.95420e-06	7.18190e-05	1.05574e-02	n/a\
+KEGG	Dopaminergic synapse	5.06099e-06	7.28714e-05	1.07850e-02	n/a\
+REACTOME	p75 NTR receptor-mediated signalling	5.46019e-06	7.80917e-05	1.16357e-02	n/a\
+REACTOME	Transcriptional regulation by RUNX3	5.70908e-06	8.11070e-05	1.21660e-02	n/a\
+REACTOME	Programmed Cell Death	6.76004e-06	9.54016e-05	1.44056e-02	n/a\
+REACTOME	Oncogene Induced Senescence	7.02036e-06	9.84236e-05	1.49604e-02	n/a\
+REACTOME	Signaling by NOTCH3	7.85003e-06	1.08626e-04	1.67284e-02	n/a\
+REACTOME	Cell death signalling via NRAGE, NRIF and NADE	7.82835e-06	1.09034e-04	1.66822e-02	n/a\
+KEGG	T cell receptor signaling	8.48328e-06	1.16631e-04	1.80779e-02	n/a\
+KEGG	Non-small cell lung cancer	8.86112e-06	1.21045e-04	1.88830e-02	n/a\
+REACTOME	G alpha (12/13) signalling events	9.01477e-06	1.21585e-04	1.92105e-02	n/a\
+REACTOME	PPARA activates gene expression	8.99526e-06	1.22095e-04	1.91689e-02	n/a\
+KEGG	Endometrial cancer	9.46573e-06	1.26865e-04	2.01715e-02	n/a\
+REACTOME	Intrinsic Pathway for Apoptosis	1.02043e-05	1.35909e-04	2.17454e-02	n/a\
+REACTOME	Signaling by EGFR	1.02043e-05	1.35909e-04	2.17454e-02	n/a\
+REACTOME	FOXO-mediated transcription	1.03732e-05	1.36452e-04	2.21053e-02	n/a\
+KEGG	Human T-cell leukemia virus 1 infection	1.09978e-05	1.43781e-04	2.34363e-02	n/a\
+REACTOME	Cellular responses to stress	1.10979e-05	1.44205e-04	2.36496e-02	n/a\
+REACTOME	Transcriptional Regulation by MECP2	1.13322e-05	1.46357e-04	2.41489e-02	n/a\
+REACTOME	MAPK targets/ Nuclear events mediated by MAP kinases	1.15485e-05	1.47364e-04	2.46099e-02	n/a\
+REACTOME	SUMOylation	1.15048e-05	1.47691e-04	2.45167e-02	n/a\
+REACTOME	SUMO E3 ligases SUMOylate target proteins	1.22425e-05	1.55290e-04	2.60888e-02	n/a\
+REACTOME	EPHB-mediated forward signaling	1.42770e-05	1.80025e-04	3.04243e-02	n/a\
+REACTOME	Platelet activation, signaling and aggregation	1.50233e-05	1.88321e-04	3.20147e-02	n/a\
+KEGG	Longevity regulating pathway - multiple species	1.64681e-05	2.05225e-04	3.50935e-02	n/a\
+KEGG	Hedgehog signaling	1.70963e-05	2.11815e-04	3.64322e-02	n/a\
+REACTOME	Nuclear Receptor transcription	1.85997e-05	2.29110e-04	3.96360e-02	n/a\
+REACTOME	Circadian Clock	1.90765e-05	2.33632e-04	4.06520e-02	n/a\
+REACTOME	Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	2.00577e-05	2.44245e-04	4.27430e-02	n/a\
+REACTOME	Constitutive Signaling by NOTCH1 PEST Domain Mutants	2.00577e-05	2.44245e-04	4.27430e-02	n/a\
+REACTOME	Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	2.00577e-05	2.44245e-04	4.27430e-02	n/a\
+REACTOME	Signaling by NOTCH1 PEST Domain Mutants in Cancer	2.00577e-05	2.44245e-04	4.27430e-02	n/a\
+REACTOME	Signaling by NOTCH1 in Cancer	2.00577e-05	2.44245e-04	4.27430e-02	n/a\
+REACTOME	Nuclear Events (kinase and transcription factor activation)	2.24179e-05	2.65403e-04	4.77725e-02	n/a\
+REACTOME	Signaling by Interleukins	2.27464e-05	2.67804e-04	4.84726e-02	n/a\
+REACTOME	Cytokine Signaling in Immune system	2.30441e-05	2.69819e-04	4.91070e-02	n/a\
+REACTOME	Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	2.31998e-05	2.70157e-04	4.94388e-02	n/a\
+REACTOME	Semaphorin interactions	2.39713e-05	2.77624e-04	5.10828e-02	n/a\
+KEGG	Ubiquitin mediated proteolysis	2.48370e-05	2.86095e-04	5.29276e-02	n/a\
+REACTOME	Transcriptional Regulation by E2F6	2.54370e-05	2.91431e-04	5.42062e-02	n/a\
+REACTOME	NRAGE signals death through JNK	2.73686e-05	3.11885e-04	5.83225e-02	n/a\
+REACTOME	VEGFR2 mediated vascular permeability	3.03030e-05	3.43488e-04	6.45757e-02	n/a\
+KEGG	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	3.07087e-05	3.44422e-04	6.54402e-02	n/a\
+REACTOME	Signaling by RAS mutants	3.06495e-05	3.45577e-04	6.53141e-02	n/a\
+REACTOME	Signaling by FGFR1 in disease	3.38365e-05	3.75550e-04	7.21056e-02	n/a\
+KEGG	Aldosterone-regulated sodium reabsorption	3.38108e-05	3.77229e-04	7.20508e-02	n/a\
+REACTOME	PTEN Regulation	3.42833e-05	3.78537e-04	7.30577e-02	n/a\
+KEGG	Oxytocin signaling	3.56278e-05	3.91355e-04	7.59228e-02	n/a\
+REACTOME	RAB geranylgeranylation	3.66657e-05	4.00690e-04	7.81346e-02	n/a\
+KEGG	Chagas disease (American trypanosomiasis)	3.85407e-05	4.19032e-04	8.21302e-02	n/a\
+KEGG	Hepatitis C	4.31545e-05	4.66813e-04	9.19622e-02	n/a\
+KEGG	Central carbon metabolism in cancer	5.35398e-05	5.76229e-04	1.14093e-01	n/a\
+KEGG	Regulation of lipolysis in adipocytes	5.71402e-05	6.11888e-04	1.21766e-01	n/a\
+REACTOME	Golgi Associated Vesicle Biogenesis	5.71402e-05	6.11888e-04	1.21766e-01	n/a\
+REACTOME	Glycosaminoglycan metabolism	6.09255e-05	6.45932e-04	1.29832e-01	n/a\
+REACTOME	PI3K/AKT Signaling in Cancer	6.85219e-05	7.19311e-04	1.46020e-01	n/a\
+KEGG	GnRH signaling	6.88607e-05	7.19324e-04	1.46742e-01	n/a\
+KEGG	Melanogenesis	6.83291e-05	7.20838e-04	1.45609e-01	n/a\
+KEGG	Wnt signaling	7.56093e-05	7.85968e-04	1.61123e-01	n/a\
+REACTOME	Toll-like Receptor Cascades	7.56093e-05	7.85968e-04	1.61123e-01	n/a\
+REACTOME	ERK/MAPK targets	7.69126e-05	7.91791e-04	1.63901e-01	n/a\
+REACTOME	Regulation of TP53 Expression and Degradation	7.85817e-05	8.05085e-04	1.67458e-01	n/a\
+KEGG	Adipocytokine signaling	8.07993e-05	8.19921e-04	1.72183e-01	n/a\
+REACTOME	Phospholipid metabolism	8.07335e-05	8.23173e-04	1.72043e-01	n/a\
+KEGG	p53 signaling	8.39242e-05	8.47595e-04	1.78842e-01	n/a\
+REACTOME	trans-Golgi Network Vesicle Budding	8.39242e-05	8.47595e-04	1.78842e-01	n/a\
+KEGG	Small cell lung cancer	9.21407e-05	9.21840e-04	1.96352e-01	n/a\
+REACTOME	RET signaling	9.62698e-05	9.58649e-04	2.05151e-01	n/a\
+KEGG	Osteoclast differentiation	9.67654e-05	9.59103e-04	2.06207e-01	n/a\
+KEGG	Cell cycle	9.97639e-05	9.84245e-04	2.12597e-01	n/a\
+REACTOME	Metabolism	1.09163e-04	1.03851e-03	2.32626e-01	n/a\
+REACTOME	Signaling by Insulin receptor	1.09673e-04	1.03873e-03	2.33713e-01	n/a\
+REACTOME	Signaling by WNT in cancer	1.06537e-04	1.04622e-03	2.27030e-01	n/a\
+KEGG	Leukocyte transendothelial migration	1.10977e-04	1.04642e-03	2.36492e-01	n/a\
+REACTOME	Misspliced GSK3beta mutants stabilize beta-catenin	1.07510e-04	1.05093e-03	2.29104e-01	n/a\
+REACTOME	S33 mutants of beta-catenin aren't phosphorylated	1.07510e-04	1.05093e-03	2.29104e-01	n/a\
+REACTOME	S37 mutants of beta-catenin aren't phosphorylated	1.07510e-04	1.05093e-03	2.29104e-01	n/a\
+REACTOME	S45 mutants of beta-catenin aren't phosphorylated	1.07510e-04	1.05093e-03	2.29104e-01	n/a\
+REACTOME	T41 mutants of beta-catenin aren't phosphorylated	1.07510e-04	1.05093e-03	2.29104e-01	n/a\
+REACTOME	phosphorylation site mutants of CTNNB1 are not targeted to the proteasome by the destruction complex	1.07510e-04	1.05093e-03	2.29104e-01	n/a\
+REACTOME	Signaling by FGFR1	1.13699e-04	1.06737e-03	2.42293e-01	n/a\
+REACTOME	ERKs are inactivated	1.18238e-04	1.09550e-03	2.51965e-01	n/a\
+REACTOME	Ca2+	1.17286e-04	1.09621e-03	2.49936e-01	n/a\
+KEGG	Glucagon signaling	1.17830e-04	1.09649e-03	2.51096e-01	n/a\
+REACTOME	Regulation of gene expression by Hypoxia-inducible Factor	1.18906e-04	1.09692e-03	2.53389e-01	n/a\
+KEGG	Oocyte meiosis	1.30751e-04	1.20099e-03	2.78630e-01	n/a\
+REACTOME	Signalling to ERKs	1.32184e-04	1.20894e-03	2.81684e-01	n/a\
+REACTOME	TGF-beta receptor signaling activates SMADs	1.32184e-04	1.20894e-03	2.81684e-01	n/a\
+REACTOME	Developmental Biology	1.36837e-04	1.24085e-03	2.91600e-01	n/a\
+KEGG	Cushing syndrome	1.38172e-04	1.24765e-03	2.94445e-01	n/a\
+REACTOME	Neddylation	1.40556e-04	1.26382e-03	2.99525e-01	n/a\
+KEGG	Epstein-Barr virus infection	1.47253e-04	1.31847e-03	3.13796e-01	n/a\
+KEGG	C-type lectin receptor signaling	1.53154e-04	1.36557e-03	3.26371e-01	n/a\
+KEGG	Amphetamine addiction	1.54029e-04	1.36765e-03	3.28236e-01	n/a\
+REACTOME	MET promotes cell motility	1.55466e-04	1.37468e-03	3.31298e-01	n/a\
+REACTOME	Negative regulation of MAPK	1.55466e-04	1.37468e-03	3.31298e-01	n/a\
+KEGG	Inositol phosphate metabolism	1.61256e-04	1.41414e-03	3.43637e-01	n/a\
+REACTOME	Signaling by FGFR	1.63452e-04	1.42753e-03	3.48316e-01	n/a\
+REACTOME	Ion transport by P-type ATPases	1.73135e-04	1.50592e-03	3.68951e-01	n/a\
+REACTOME	Regulation of TP53 Degradation	1.78994e-04	1.55055e-03	3.81436e-01	n/a\
+KEGG	Relaxin signaling	1.93415e-04	1.66869e-03	4.12167e-01	n/a\
+REACTOME	Deadenylation of mRNA	1.96315e-04	1.67339e-03	4.18347e-01	n/a\
+REACTOME	Disassembly of the destruction complex and recruitment of AXIN to the membrane	1.95543e-04	1.68025e-03	4.16702e-01	n/a\
+REACTOME	Regulation of TP53 Activity through Acetylation	1.95543e-04	1.68025e-03	4.16702e-01	n/a\
+REACTOME	Signaling by FGFR2	2.08668e-04	1.77160e-03	4.44672e-01	n/a\
+REACTOME	Signaling by FGFR3	2.44173e-04	2.06481e-03	5.20333e-01	n/a\
+REACTOME	Deubiquitination	2.66467e-04	2.22683e-03	5.67841e-01	n/a\
+REACTOME	Notch-HLH transcription	2.64622e-04	2.22889e-03	5.63909e-01	n/a\
+REACTOME	ER to Golgi Anterograde Transport	2.66225e-04	2.23356e-03	5.67325e-01	n/a\
+KEGG	Prolactin signaling	2.93312e-04	2.44159e-03	6.25048e-01	n/a\
+REACTOME	Platelet homeostasis	2.95973e-04	2.45416e-03	6.30718e-01	n/a\
+KEGG	Glutamatergic synapse	3.02881e-04	2.50170e-03	6.45439e-01	n/a\
+KEGG	TNF signaling	3.13265e-04	2.57748e-03	6.67568e-01	n/a\
+REACTOME	AMER1 mutants destabilize the destruction complex	3.21255e-04	2.63306e-03	6.84594e-01	n/a\
+REACTOME	APC truncation mutants have impaired AXIN binding	3.21255e-04	2.63306e-03	6.84594e-01	n/a\
+REACTOME	AXIN missense mutants destabilize the destruction complex	3.21255e-04	2.63306e-03	6.84594e-01	n/a\
+REACTOME	AXIN mutants destabilize the destruction complex, activating WNT signaling	3.21255e-04	2.63306e-03	6.84594e-01	n/a\
+REACTOME	Constitutive Signaling by EGFRvIII	3.21255e-04	2.63306e-03	6.84594e-01	n/a\
+REACTOME	Signaling by EGFRvIII in Cancer	3.21255e-04	2.63306e-03	6.84594e-01	n/a\
+REACTOME	Truncations of AMER1 destabilize the destruction complex	3.21255e-04	2.63306e-03	6.84594e-01	n/a\
+REACTOME	truncated APC mutants destabilize the destruction complex	3.21255e-04	2.63306e-03	6.84594e-01	n/a\
+REACTOME	Cargo recognition for clathrin-mediated endocytosis	3.33602e-04	2.65263e-03	7.10906e-01	n/a\
+REACTOME	Activation of NMDA receptors and postsynaptic events	3.35271e-04	2.65599e-03	7.14463e-01	n/a\
+REACTOME	TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain	3.44133e-04	2.71610e-03	7.33347e-01	n/a\
+KEGG	Inflammatory mediator regulation of TRP channels	3.52808e-04	2.77429e-03	7.51834e-01	n/a\
+REACTOME	VEGFR2 mediated cell proliferation	3.70103e-04	2.89959e-03	7.88689e-01	n/a\
+KEGG	Lysine degradation	3.72654e-04	2.90889e-03	7.94126e-01	n/a\
+REACTOME	Cyclin D associated events in G1	3.75387e-04	2.91952e-03	7.99950e-01	n/a\
+REACTOME	G1 Phase	3.75387e-04	2.91952e-03	7.99950e-01	n/a\
+KEGG	Shigellosis	3.90482e-04	3.00403e-03	8.32117e-01	n/a\
+REACTOME	TP53 Regulates Metabolic Genes	3.89950e-04	3.01081e-03	8.30983e-01	n/a\
+REACTOME	MET activates RAP1 and RAC1	3.95072e-04	3.02841e-03	8.41898e-01	n/a\
+REACTOME	Prolonged ERK activation events	3.95072e-04	3.02841e-03	8.41898e-01	n/a\
+KEGG	SNARE interactions in vesicular transport	3.99009e-04	3.03674e-03	8.50288e-01	n/a\
+KEGG	Notch signaling	4.41833e-04	3.35070e-03	9.41546e-01	n/a\
+KEGG	Thyroid cancer	4.60081e-04	3.47671e-03	9.80433e-01	n/a\
+REACTOME	Apoptotic cleavage of cellular proteins	4.60081e-04	3.47671e-03	9.80433e-01	n/a\
+KEGG	Circadian entrainment	4.65031e-04	3.48937e-03	9.90981e-01	n/a\
+REACTOME	TRAF6 mediated NF-kB activation	4.82806e-04	3.61003e-03	1.00000e+00	n/a\
+REACTOME	Intra-Golgi traffic	5.63324e-04	4.19735e-03	1.00000e+00	n/a\
+REACTOME	Beta-catenin phosphorylation cascade	5.85457e-04	4.34707e-03	1.00000e+00	n/a\
+REACTOME	Retrograde transport at the Trans-Golgi-Network	6.04503e-04	4.47290e-03	1.00000e+00	n/a\
+REACTOME	N-glycan trimming in the ER and Calnexin/Calreticulin cycle	6.31969e-04	4.65995e-03	1.00000e+00	n/a\
+REACTOME	Signaling by WNT	6.35308e-04	4.66842e-03	1.00000e+00	n/a\
+KEGG	Cocaine addiction	6.38721e-04	4.67737e-03	1.00000e+00	n/a\
+REACTOME	ESR-mediated signaling	6.42476e-04	4.68875e-03	1.00000e+00	n/a\
+REACTOME	Downregulation of SMAD2/3:SMAD4 transcriptional activity	6.50294e-04	4.72961e-03	1.00000e+00	n/a\
+REACTOME	Chromatin modifying enzymes	6.61578e-04	4.79532e-03	1.00000e+00	n/a\
+REACTOME	Chromatin organization	6.61578e-04	4.79532e-03	1.00000e+00	n/a\
+REACTOME	COPI-independent Golgi-to-ER retrograde traffic	6.66231e-04	4.79641e-03	1.00000e+00	n/a\
+REACTOME	Signaling by Non-Receptor Tyrosine Kinases	6.66231e-04	4.79641e-03	1.00000e+00	n/a\
+REACTOME	Signaling by PTK6	6.66231e-04	4.79641e-03	1.00000e+00	n/a\
+KEGG	Apoptosis	6.80074e-04	4.84695e-03	1.00000e+00	n/a\
+KEGG	B cell receptor signaling	7.16590e-04	5.09018e-03	1.00000e+00	n/a\
+KEGG	Bladder cancer	7.72750e-04	5.47086e-03	1.00000e+00	n/a\
+REACTOME	Signaling by FGFR in disease	7.72750e-04	5.47086e-03	1.00000e+00	n/a\
+KEGG	Dilated cardiomyopathy (DCM)	8.30560e-04	5.80303e-03	1.00000e+00	n/a\
+REACTOME	Integration of energy metabolism	8.30560e-04	5.80303e-03	1.00000e+00	n/a\
+KEGG	Vasopressin-regulated water reabsorption	8.27629e-04	5.82072e-03	1.00000e+00	n/a\
+REACTOME	TBC/RABGAPs	8.27629e-04	5.82072e-03	1.00000e+00	n/a\
+REACTOME	FGFR1 mutant receptor activation	8.47421e-04	5.88226e-03	1.00000e+00	n/a\
+REACTOME	Myogenesis	8.47421e-04	5.88226e-03	1.00000e+00	n/a\
+KEGG	Hypertrophic cardiomyopathy (HCM)	8.77944e-04	5.99647e-03	1.00000e+00	n/a\
+REACTOME	CTLA4 inhibitory signaling	8.73309e-04	6.02272e-03	1.00000e+00	n/a\
+REACTOME	NOTCH3 Activation and Transmission of Signal to the Nucleus	8.73309e-04	6.02272e-03	1.00000e+00	n/a\
+REACTOME	Regulation of signaling by CBL	8.73309e-04	6.02272e-03	1.00000e+00	n/a\
+KEGG	Vibrio cholerae infection	9.07551e-04	6.17889e-03	1.00000e+00	n/a\
+REACTOME	Signaling by Activin	9.36771e-04	6.33733e-03	1.00000e+00	n/a\
+KEGG	Bacterial invasion of epithelial cells	9.35731e-04	6.35045e-03	1.00000e+00	n/a\
+REACTOME	N-glycan trimming and elongation in the cis-Golgi	9.44833e-04	6.37164e-03	1.00000e+00	n/a\
+REACTOME	Regulation of MECP2 expression and activity	9.44833e-04	6.37164e-03	1.00000e+00	n/a\
+KEGG	Renin secretion	9.66110e-04	6.47415e-03	1.00000e+00	n/a\
+REACTOME	Signaling by FGFR4	9.72738e-04	6.49813e-03	1.00000e+00	n/a\
+REACTOME	Cell-Cell communication	1.05779e-03	7.04422e-03	1.00000e+00	n/a\
+REACTOME	FOXO-mediated transcription of cell cycle genes	1.13154e-03	7.51187e-03	1.00000e+00	n/a\
+REACTOME	Antigen Presentation: Folding, assembly and peptide loading of class I MHC	1.15687e-03	7.63248e-03	1.00000e+00	n/a\
+REACTOME	Estrogen-dependent nuclear events downstream of ESR-membrane signaling	1.15687e-03	7.63248e-03	1.00000e+00	n/a\
+REACTOME	Negative regulation of FGFR3 signaling	1.15687e-03	7.63248e-03	1.00000e+00	n/a\
+REACTOME	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	1.16793e-03	7.63454e-03	1.00000e+00	n/a\
+REACTOME	NOTCH3 Intracellular Domain Regulates Transcription	1.16793e-03	7.63454e-03	1.00000e+00	n/a\
+REACTOME	Signaling by Ligand-Responsive EGFR Variants in Cancer	1.16793e-03	7.63454e-03	1.00000e+00	n/a\
+KEGG	JAK-STAT signaling	1.15443e-03	7.64003e-03	1.00000e+00	n/a\
+REACTOME	Paradoxical activation of RAF signaling by kinase inactive BRAF	1.19220e-03	7.72212e-03	1.00000e+00	n/a\
+REACTOME	Regulation of cholesterol biosynthesis by SREBP (SREBF)	1.19220e-03	7.72212e-03	1.00000e+00	n/a\
+REACTOME	Signaling by moderate kinase activity BRAF mutants	1.19220e-03	7.72212e-03	1.00000e+00	n/a\
+KEGG	Valine, leucine and isoleucine degradation	1.23670e-03	7.93798e-03	1.00000e+00	n/a\
+REACTOME	BMAL1:CLOCK,NPAS2 activates circadian gene expression	1.29233e-03	8.14780e-03	1.00000e+00	n/a\
+REACTOME	Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant	1.29233e-03	8.14780e-03	1.00000e+00	n/a\
+REACTOME	FOXO-mediated transcription of cell death genes	1.29233e-03	8.14780e-03	1.00000e+00	n/a\
+REACTOME	Post-transcriptional silencing by small RNAs	1.29233e-03	8.14780e-03	1.00000e+00	n/a\
+REACTOME	Regulation of FOXO transcriptional activity by acetylation	1.29233e-03	8.14780e-03	1.00000e+00	n/a\
+REACTOME	Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant	1.29233e-03	8.14780e-03	1.00000e+00	n/a\
+REACTOME	Signaling by TGF-beta Receptor Complex in Cancer	1.29233e-03	8.14780e-03	1.00000e+00	n/a\
+REACTOME	Signaling by Nuclear Receptors	1.32039e-03	8.15580e-03	1.00000e+00	n/a\
+REACTOME	RUNX3 regulates p14-ARF	1.28548e-03	8.20167e-03	1.00000e+00	n/a\
+REACTOME	Regulation of PTEN mRNA translation	1.28548e-03	8.20167e-03	1.00000e+00	n/a\
+REACTOME	Signal attenuation	1.28548e-03	8.20167e-03	1.00000e+00	n/a\
+REACTOME	Tight junction interactions	1.28548e-03	8.20167e-03	1.00000e+00	n/a\
+KEGG	Fc epsilon RI signaling	1.28524e-03	8.22476e-03	1.00000e+00	n/a\
+REACTOME	Activation of BH3-only proteins	1.41875e-03	8.73802e-03	1.00000e+00	n/a\
+REACTOME	Integrin alphaIIb beta3 signaling	1.41875e-03	8.73802e-03	1.00000e+00	n/a\
+REACTOME	Integrin signaling	1.41875e-03	8.73802e-03	1.00000e+00	n/a\
+REACTOME	Extracellular matrix organization	1.50572e-03	9.19395e-03	1.00000e+00	n/a\
+REACTOME	Activation of gene expression by SREBF (SREBP)	1.55499e-03	9.41387e-03	1.00000e+00	n/a\
+REACTOME	MAP2K and MAPK activation	1.55499e-03	9.41387e-03	1.00000e+00	n/a\
+REACTOME	CRMPs in Sema3A signaling	1.55248e-03	9.45239e-03	1.00000e+00	n/a\
+REACTOME	Downregulation of TGF-beta receptor signaling	1.55248e-03	9.45239e-03	1.00000e+00	n/a\
+REACTOME	SUMOylation of intracellular receptors	1.57888e-03	9.50450e-03	1.00000e+00	n/a\
+REACTOME	Beta-catenin independent WNT signaling	1.61096e-03	9.67030e-03	1.00000e+00	n/a\
+REACTOME	Cell-cell junction organization	1.63022e-03	9.75842e-03	1.00000e+00	n/a\
+REACTOME	Insulin receptor signalling cascade	1.63022e-03	9.75842e-03	1.00000e+00	n/a\
+REACTOME	Ca-dependent events	1.64973e-03	9.82004e-03	1.00000e+00	n/a\
+REACTOME	RHO GTPase Effectors	1.66207e-03	9.83853e-03	1.00000e+00	n/a\
+REACTOME	Cell junction organization	1.65798e-03	9.84166e-03	1.00000e+00	n/a\
+REACTOME	Regulation of TP53 Activity through Phosphorylation	1.67988e-03	9.91641e-03	1.00000e+00	n/a\
+KEGG	Type II diabetes mellitus	1.68585e-03	9.92416e-03	1.00000e+00	n/a\
+REACTOME	Transcriptional regulation of white adipocyte differentiation	1.69164e-03	9.93081e-03	1.00000e+00	n/a\
+REACTOME	Chondroitin sulfate/dermatan sulfate metabolism	1.72396e-03	1.00927e-02	1.00000e+00	n/a\
+REACTOME	TP53 Regulates Transcription of Cell Cycle Genes	1.72396e-03	1.00927e-02	1.00000e+00	n/a\
+REACTOME	Ion homeostasis	1.74656e-03	1.01692e-02	1.00000e+00	n/a\
+KEGG	Calcium signaling	1.79569e-03	1.04267e-02	1.00000e+00	n/a\
+REACTOME	SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription	1.84595e-03	1.06895e-02	1.00000e+00	n/a\
+REACTOME	Integrin cell surface interactions	1.95498e-03	1.12596e-02	1.00000e+00	n/a\
+REACTOME	Signaling by ROBO receptors	1.95349e-03	1.12815e-02	1.00000e+00	n/a\
+REACTOME	Defective EXT1 causes exostoses 1, TRPS2 and CHDS	2.04473e-03	1.17448e-02	1.00000e+00	n/a\
+REACTOME	Defective EXT2 causes exostoses 2	2.04473e-03	1.17448e-02	1.00000e+00	n/a\
+REACTOME	Spry regulation of FGF signaling	2.04473e-03	1.17448e-02	1.00000e+00	n/a\
+REACTOME	Opioid Signalling	2.08594e-03	1.18854e-02	1.00000e+00	n/a\
+REACTOME	Non-integrin membrane-ECM interactions	2.13423e-03	1.21281e-02	1.00000e+00	n/a\
+KEGG	Parathyroid hormone synthesis, secretion and action	2.14000e-03	1.21286e-02	1.00000e+00	n/a\
+REACTOME	Regulation of TP53 Activity through Methylation	2.15353e-03	1.21729e-02	1.00000e+00	n/a\
+REACTOME	Signaling by NOTCH4	2.15353e-03	1.21729e-02	1.00000e+00	n/a\
+REACTOME	Macroautophagy	2.18850e-03	1.23053e-02	1.00000e+00	n/a\
+REACTOME	PLC beta mediated events	2.23058e-03	1.25089e-02	1.00000e+00	n/a\
+KEGG	Biosynthesis of unsaturated fatty acids	2.27820e-03	1.27424e-02	1.00000e+00	n/a\
+REACTOME	Downregulation of ERBB2 signaling	2.27820e-03	1.27424e-02	1.00000e+00	n/a\
+REACTOME	HSP90 chaperone cycle for steroid hormone receptors (SHR)	2.35838e-03	1.30878e-02	1.00000e+00	n/a\
+REACTOME	mRNA Splicing - Major Pathway	2.35686e-03	1.31135e-02	1.00000e+00	n/a\
+REACTOME	Hemostasis	2.51065e-03	1.38606e-02	1.00000e+00	n/a\
+KEGG	Viral carcinogenesis	2.50694e-03	1.38761e-02	1.00000e+00	n/a\
+REACTOME	RAF activation	2.54850e-03	1.40332e-02	1.00000e+00	n/a\
+KEGG	Th17 cell differentiation	2.61132e-03	1.43421e-02	1.00000e+00	n/a\
+REACTOME	Cytochrome c-mediated apoptotic response	2.65435e-03	1.45409e-02	1.00000e+00	n/a\
+REACTOME	NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10	2.65435e-03	1.45409e-02	1.00000e+00	n/a\
+REACTOME	Regulation of localization of FOXO transcription factors	2.65435e-03	1.45409e-02	1.00000e+00	n/a\
+REACTOME	RAF-independent MAPK1/3 activation	2.69321e-03	1.46409e-02	1.00000e+00	n/a\
+REACTOME	NOTCH4 Intracellular Domain Regulates Transcription	2.93392e-03	1.58685e-02	1.00000e+00	n/a\
+REACTOME	Signaling by high-kinase activity BRAF mutants	2.93226e-03	1.58999e-02	1.00000e+00	n/a\
+REACTOME	G-protein mediated events	3.13642e-03	1.69208e-02	1.00000e+00	n/a\
+REACTOME	Miscellaneous transport and binding events	3.15166e-03	1.69601e-02	1.00000e+00	n/a\
+REACTOME	Uptake and actions of bacterial toxins	3.15166e-03	1.69601e-02	1.00000e+00	n/a\
+REACTOME	Regulation of PTEN gene transcription	3.19739e-03	1.71197e-02	1.00000e+00	n/a\
+REACTOME	AKT phosphorylates targets in the nucleus	3.36320e-03	1.79624e-02	1.00000e+00	n/a\
+REACTOME	ATF6 (ATF6-alpha) activates chaperones	3.36320e-03	1.79624e-02	1.00000e+00	n/a\
+REACTOME	Cohesin Loading onto Chromatin	3.36320e-03	1.79624e-02	1.00000e+00	n/a\
+REACTOME	SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion	3.36320e-03	1.79624e-02	1.00000e+00	n/a\
+REACTOME	DAG and IP3 signaling	3.52469e-03	1.86380e-02	1.00000e+00	n/a\
+REACTOME	Pyruvate metabolism	3.52469e-03	1.86380e-02	1.00000e+00	n/a\
+KEGG	Cholinergic synapse	3.61988e-03	1.90468e-02	1.00000e+00	n/a\
+REACTOME	Defective B3GALT6 causes EDSP2 and SEMDJL1	3.71829e-03	1.95164e-02	1.00000e+00	n/a\
+REACTOME	Signal transduction by L1	3.71829e-03	1.95164e-02	1.00000e+00	n/a\
+REACTOME	Neurexins and neuroligins	3.81604e-03	1.97858e-02	1.00000e+00	n/a\
+REACTOME	Cam-PDE 1 activation	3.80615e-03	1.98797e-02	1.00000e+00	n/a\
+REACTOME	Neurophilin interactions with VEGF and VEGFR	3.80615e-03	1.98797e-02	1.00000e+00	n/a\
+REACTOME	Role of ABL in ROBO-SLIT signaling	3.80615e-03	1.98797e-02	1.00000e+00	n/a\
+KEGG	Aldosterone synthesis and secretion	3.91493e-03	2.02493e-02	1.00000e+00	n/a\
+KEGG	Progesterone-mediated oocyte maturation	3.91493e-03	2.02493e-02	1.00000e+00	n/a\
+REACTOME	Metabolism of nitric oxide: eNOS activation and regulation	3.98876e-03	2.05315e-02	1.00000e+00	n/a\
+REACTOME	Sema3A PAK dependent Axon repulsion	3.98876e-03	2.05315e-02	1.00000e+00	n/a\
+REACTOME	Sema4D in semaphorin signaling	3.98876e-03	2.05315e-02	1.00000e+00	n/a\
+REACTOME	Signaling by cytosolic FGFR1 fusion mutants	3.98876e-03	2.05315e-02	1.00000e+00	n/a\
+REACTOME	p130Cas linkage to MAPK signaling for integrins	3.98876e-03	2.05315e-02	1.00000e+00	n/a\
+REACTOME	Competing endogenous RNAs (ceRNAs) regulate PTEN translation	4.07600e-03	2.07302e-02	1.00000e+00	n/a\
+KEGG	VEGF signaling	4.09833e-03	2.07941e-02	1.00000e+00	n/a\
+REACTOME	Metabolism of carbohydrates	4.11954e-03	2.08521e-02	1.00000e+00	n/a\
+REACTOME	mTOR signalling	4.28076e-03	2.16168e-02	1.00000e+00	n/a\
+REACTOME	Interleukin-3, Interleukin-5 and GM-CSF signaling	4.33715e-03	2.17983e-02	1.00000e+00	n/a\
+REACTOME	SUMOylation of RNA binding proteins	4.32887e-03	2.18081e-02	1.00000e+00	n/a\
+REACTOME	mRNA Splicing	4.50319e-03	2.23170e-02	1.00000e+00	n/a\
+REACTOME	Estrogen-stimulated signaling through PRKCZ	4.49652e-03	2.25461e-02	1.00000e+00	n/a\
+REACTOME	Frs2-mediated activation	4.49652e-03	2.25461e-02	1.00000e+00	n/a\
+REACTOME	Loss of Function of SMAD2/3 in Cancer	4.49652e-03	2.25461e-02	1.00000e+00	n/a\
+REACTOME	Loss of Function of TGFBR1 in Cancer	4.49652e-03	2.25461e-02	1.00000e+00	n/a\
+REACTOME	RUNX2 regulates bone development	4.49652e-03	2.25461e-02	1.00000e+00	n/a\
+KEGG	Vascular smooth muscle contraction	4.60920e-03	2.27893e-02	1.00000e+00	n/a\
+KEGG	Herpes simplex infection	4.79401e-03	2.35936e-02	1.00000e+00	n/a\
+REACTOME	COPII-mediated vesicle transport	4.78403e-03	2.35990e-02	1.00000e+00	n/a\
+REACTOME	Calnexin/calreticulin cycle	4.88458e-03	2.39840e-02	1.00000e+00	n/a\
+REACTOME	Constitutive Signaling by AKT1 E17K in Cancer	4.88458e-03	2.39840e-02	1.00000e+00	n/a\
+REACTOME	Negative regulation of FGFR1 signaling	4.88458e-03	2.39840e-02	1.00000e+00	n/a\
+REACTOME	Golgi-to-ER retrograde transport	5.05519e-03	2.46513e-02	1.00000e+00	n/a\
+REACTOME	Constitutive Signaling by Aberrant PI3K in Cancer	5.14054e-03	2.50103e-02	1.00000e+00	n/a\
+REACTOME	Transcriptional regulation by RUNX1	5.16319e-03	2.50632e-02	1.00000e+00	n/a\
+KEGG	Morphine addiction	5.30063e-03	2.56719e-02	1.00000e+00	n/a\
+REACTOME	CLEC7A (Dectin-1) signaling	5.30063e-03	2.56719e-02	1.00000e+00	n/a\
+KEGG	Measles	5.37256e-03	2.59025e-02	1.00000e+00	n/a\
+KEGG	Gastric acid secretion	5.52075e-03	2.65569e-02	1.00000e+00	n/a\
+KEGG	Propanoate metabolism	5.55438e-03	2.66585e-02	1.00000e+00	n/a\
+KEGG	Gap junction	5.58699e-03	2.67548e-02	1.00000e+00	n/a\
+REACTOME	MAPK6/MAPK4 signaling	5.58699e-03	2.67548e-02	1.00000e+00	n/a\
+REACTOME	Apoptotic execution phase	5.72279e-03	2.72825e-02	1.00000e+00	n/a\
+REACTOME	Transcriptional activation of mitochondrial biogenesis	5.72279e-03	2.72825e-02	1.00000e+00	n/a\
+REACTOME	Ovarian tumor domain proteases	5.84519e-03	2.77419e-02	1.00000e+00	n/a\
+REACTOME	Signaling by SCF-KIT	5.84519e-03	2.77419e-02	1.00000e+00	n/a\
+REACTOME	Signaling by ERBB4	5.88522e-03	2.78080e-02	1.00000e+00	n/a\
+REACTOME	Unblocking of NMDA receptors, glutamate binding and activation	6.07158e-03	2.86251e-02	1.00000e+00	n/a\
+REACTOME	VxPx cargo-targeting to cilium	6.07158e-03	2.86251e-02	1.00000e+00	n/a\
+REACTOME	Mitotic G1-G1/S phases	6.10443e-03	2.86532e-02	1.00000e+00	n/a\
+KEGG	Synaptic vesicle cycle	6.54685e-03	3.06623e-02	1.00000e+00	n/a\
+REACTOME	Downstream signaling of activated FGFR1	6.78491e-03	3.17076e-02	1.00000e+00	n/a\
+REACTOME	Interleukin-6 family signaling	6.78491e-03	3.17076e-02	1.00000e+00	n/a\
+REACTOME	Signaling by EGFR in Cancer	6.78491e-03	3.17076e-02	1.00000e+00	n/a\
+REACTOME	Signaling by Erythropoietin	7.12095e-03	3.30604e-02	1.00000e+00	n/a\
+REACTOME	CaM	7.30490e-03	3.33335e-02	1.00000e+00	n/a\
+REACTOME	Calmodulin induced events	7.30490e-03	3.33335e-02	1.00000e+00	n/a\
+REACTOME	Negative regulation of FGFR4 signaling	7.30490e-03	3.33335e-02	1.00000e+00	n/a\
+REACTOME	Apoptotic cleavage of cell adhesion  proteins	7.26852e-03	3.36722e-02	1.00000e+00	n/a\
+REACTOME	Listeria monocytogenes entry into host cells	7.26852e-03	3.36722e-02	1.00000e+00	n/a\
+REACTOME	PECAM1 interactions	7.26852e-03	3.36722e-02	1.00000e+00	n/a\
+REACTOME	Regulation of KIT signaling	7.26852e-03	3.36722e-02	1.00000e+00	n/a\
+REACTOME	Repression of WNT target genes	7.26852e-03	3.36722e-02	1.00000e+00	n/a\
+REACTOME	Sema4D induced cell migration and growth-cone collapse	7.26852e-03	3.36722e-02	1.00000e+00	n/a\
+REACTOME	eNOS activation	7.26852e-03	3.36722e-02	1.00000e+00	n/a\
+REACTOME	EGFR downregulation	7.66005e-03	3.47310e-02	1.00000e+00	n/a\
+KEGG	Apoptosis - multiple species	7.87855e-03	3.56458e-02	1.00000e+00	n/a\
+REACTOME	NCAM signaling for neurite out-growth	8.00188e-03	3.60508e-02	1.00000e+00	n/a\
+REACTOME	Degradation of beta-catenin by the destruction complex	7.99537e-03	3.60977e-02	1.00000e+00	n/a\
+REACTOME	Downstream signaling of activated FGFR3	8.46133e-03	3.80403e-02	1.00000e+00	n/a\
+REACTOME	Processing of Capped Intron-Containing Pre-mRNA	8.59407e-03	3.85557e-02	1.00000e+00	n/a\
+REACTOME	Cellular response to hypoxia	8.87625e-03	3.96547e-02	1.00000e+00	n/a\
+REACTOME	MHC class II antigen presentation	8.87134e-03	3.97160e-02	1.00000e+00	n/a\
+REACTOME	Hedgehog 'on' state	9.21275e-03	4.10719e-02	1.00000e+00	n/a\
+REACTOME	ISG15 antiviral mechanism	9.34103e-03	4.14703e-02	1.00000e+00	n/a\
+REACTOME	SUMOylation of DNA damage response and repair proteins	9.34103e-03	4.14703e-02	1.00000e+00	n/a\
+KEGG	NF-kappa B signaling	9.33114e-03	4.15129e-02	1.00000e+00	n/a\
+REACTOME	HS-GAG degradation	9.45012e-03	4.17805e-02	1.00000e+00	n/a\
+REACTOME	Signaling by NOTCH1	9.45012e-03	4.17805e-02	1.00000e+00	n/a\
+REACTOME	Pyruvate metabolism and Citric Acid (TCA) cycle	9.67812e-03	4.24364e-02	1.00000e+00	n/a\
+REACTOME	Regulation of PTEN localization	9.65710e-03	4.25192e-02	1.00000e+00	n/a\
+REACTOME	Small interfering RNA (siRNA) biogenesis	9.65710e-03	4.25192e-02	1.00000e+00	n/a\
+REACTOME	Apoptotic factor-mediated response	9.87943e-03	4.31415e-02	1.00000e+00	n/a\
+REACTOME	GRB2:SOS provides linkage to MAPK signaling for Integrins	9.87943e-03	4.31415e-02	1.00000e+00	n/a\
+REACTOME	Import of palmitoyl-CoA into the mitochondrial matrix	9.87943e-03	4.31415e-02	1.00000e+00	n/a\
+REACTOME	Insulin processing	9.87943e-03	4.31415e-02	1.00000e+00	n/a\
+REACTOME	RUNX3 regulates NOTCH signaling	9.87943e-03	4.31415e-02	1.00000e+00	n/a\
+REACTOME	COPI-mediated anterograde transport	9.86686e-03	4.31751e-02	1.00000e+00	n/a\
+REACTOME	EPH-ephrin mediated repulsion of cells	1.00016e-02	4.32321e-02	1.00000e+00	n/a\
+REACTOME	Cellular response to heat stress	1.04926e-02	4.52626e-02	1.00000e+00	n/a\
+REACTOME	TP53 Regulates Transcription of Cell Death Genes	1.05517e-02	4.54256e-02	1.00000e+00	n/a\
+REACTOME	Keratan sulfate biosynthesis	1.05809e-02	4.54595e-02	1.00000e+00	n/a\
+REACTOME	Negative regulation of FGFR2 signaling	1.05809e-02	4.54595e-02	1.00000e+00	n/a\
+REACTOME	Signal amplification	1.08258e-02	4.63249e-02	1.00000e+00	n/a\
+REACTOME	Diseases of glycosylation	1.08915e-02	4.64196e-02	1.00000e+00	n/a\
+REACTOME	Fatty acyl-CoA biosynthesis	1.09142e-02	4.64235e-02	1.00000e+00	n/a\
+REACTOME	Keratan sulfate/keratin metabolism	1.09142e-02	4.64235e-02	1.00000e+00	n/a\
+REACTOME	Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors	1.08806e-02	4.64660e-02	1.00000e+00	n/a\
+KEGG	Long-term depression	1.13264e-02	4.79852e-02	1.00000e+00	n/a\
+REACTOME	Cellular Senescence	1.16248e-02	4.91517e-02	1.00000e+00	n/a\
+REACTOME	Gastrin-CREB signalling pathway via PKC and MAPK	1.18314e-02	4.97292e-02	1.00000e+00	n/a\
+REACTOME	Platelet sensitization by LDL	1.18314e-02	4.97292e-02	1.00000e+00	n/a\
+REACTOME	Tie2 Signaling	1.18314e-02	4.97292e-02	1.00000e+00	n/a\
+KEGG	ECM-receptor interaction	1.17876e-02	4.97413e-02	1.00000e+00	n/a\
+KEGG	Th1 and Th2 cell differentiation	1.18298e-02	4.98208e-02	1.00000e+00	n/a}
